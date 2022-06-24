@@ -1,4 +1,8 @@
  hi
  how r u
 
+<<<<<<< HEAD
  good
+=======
+ 
+>>>>>>> 0cc66a2bd98709ce825fee6e84f98140eadfde19
